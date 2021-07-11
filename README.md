@@ -22,4 +22,4 @@
    - Create expressions to drive the value of other object's attributes.
    - Essentially, control the position of transform nodes relative to a central object.
 
-<small> Attr. Autodesk, Inc. for their underlying files. </small>
+<small> Attr. Autodesk, Inc. for their supporting content. </small>
