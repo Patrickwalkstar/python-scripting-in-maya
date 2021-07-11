@@ -2,7 +2,7 @@
  
  practicing key concepts of scripting in Maya with Python 
 
-![Resulting Object]('rotateAbout.png' "Resulting Object")
+![Resulting Object](rotateAbout.jpg "Resulting Object")
 
 ### 1. Creating and Manipulating Objects
    - The creation and alteration/manipulation of a cubic mesh.
